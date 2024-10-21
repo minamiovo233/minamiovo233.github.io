@@ -1,9 +1,10 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# about
+我是小南，本科计算数学在读，爱好是绘画和哲学什么的，正在探索其他兴趣
+
 
 ::github{repo="saicaca/fuwari"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
+> ### 朋友
+> - [青争](https://moeleak.github.io)
 > - 
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> - 
