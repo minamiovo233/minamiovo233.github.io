@@ -1,22 +1,24 @@
 ---
-title: Draft Example
-published: 2022-07-01
-tags: [Markdown, Blogging, Demo]
-category: Examples
+title: 亚人类宝宝的哲学焦虑
+published: 2024-10-21
+tags: [哲学]
+category: 哲学
 draft: true
 ---
 
-# This Article is draft
+# 
 
-This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.
+亚人类宝宝独自坐在森林边缘，注视着周围繁忙的世界。牠能够看见其他孩子在玩耍，但那些孩子从不邀请牠参加，仿佛牠与这个世界之间隔着一个大泡泡。
 
-When the article is ready for publication, you can update the "draft" field to "false" in the Frontmatter:
+牠感觉自己像一个被孤立的鸡蛋，永远无法融入到完整的煎饼中。牠试图与别人建立联系，但怎么也做不到，牠想追上离开的大家，但世界总是在远离牠。牠开始害怕这些，并对未知的未来和周围不存在的恶意而感到恐惧。
 
-```markdown
+“为什么我总感觉和世界格格不入？我知道自己和别人不一样，那又怎么样？但这种孤独感和焦虑感让我感到窒息。有时候我甚至不知道自己为什么存在，我不知道我是否思考了错误的方向或者做了错误的事……这些念头让我越来越焦虑，如果我回到过去一切又会怎么样，但我永远也不可能书写过去了连带着过去牵连的未来，我该怎么办？”
+
+在那片寂静的森林边缘，亚人类宝宝静静地坐着，小小的身影显得格外孤独。但牠的影子是巨大的，就是一个长着牛角的怪兽，好像牠吞下了所有的生机。宝宝的心越来越失落，牠感觉牠的生命好像也这样静静地被牛角兽吃掉了。
 ---
-title: Draft Example
+title: 亚人类宝宝的哲学焦虑
 published: 2024-01-11T04:40:26.381Z
-tags: [Markdown, Blogging, Demo]
-category: Examples
+tags: [哲学]
+category: 哲学
 draft: false
 ---
