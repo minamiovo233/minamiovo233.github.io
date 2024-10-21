@@ -1,12 +1,1 @@
-{
-	"folders": [
-		{
-			"path": "../../../.."
-		},
-		{
-			"name": "minamiovo233.github.io",
-			"path": "../../.."
-		}
-	],
-	"settings": {}
-}
+Remove blog.code-workspace file
