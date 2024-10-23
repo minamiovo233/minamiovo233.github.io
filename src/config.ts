@@ -47,7 +47,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/new-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/my-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: '南＿Minami',
   bio: '来自未来的利他主义者，住在森林，做观测和记录的工作.',
   links: [
