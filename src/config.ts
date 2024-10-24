@@ -20,8 +20,8 @@ export const siteConfig: SiteConfig = {
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
-      text: '',              // Credit text to be displayed
-      url: ''                // (Optional) URL link to the original artwork or artist's page
+      text: '南',              // Credit text to be displayed
+      url: 'xnmoe.com'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   favicon: [    // Leave this array empty to use the default favicon
@@ -47,9 +47,9 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/my-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/my-avatar.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: '南＿Minami',
-  bio: '来自未来的利他主义者，住在森林，做观测和记录的工作.',
+  bio: '我是小南，你是谁啊.',
   links: [
     {
       name: 'Twitter',
